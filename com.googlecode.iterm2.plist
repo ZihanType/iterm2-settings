@@ -1130,6 +1130,8 @@
 			<string>/Users/arthur</string>
 		</dict>
 	</array>
+	<key>QuitWhenAllWindowsClosed</key>
+	<true/>
 	<key>SoundForEsc</key>
 	<false/>
 	<key>VisualIndicatorForEsc</key>
