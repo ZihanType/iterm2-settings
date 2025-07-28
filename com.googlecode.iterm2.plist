@@ -1080,6 +1080,8 @@
 				<key>Red Component</key>
 				<real>0.74613857269287109</real>
 			</dict>
+			<key>Blink Allowed</key>
+			<true/>
 			<key>Blinking Cursor</key>
 			<false/>
 			<key>Blur</key>
