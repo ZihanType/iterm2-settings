@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ClickToSelectCommand</key>
+	<false/>
 	<key>Default Bookmark Guid</key>
 	<string>57904090-4277-4172-A37D-A2A2BD970F28</string>
 	<key>HapticFeedbackForEsc</key>
