@@ -1521,6 +1521,8 @@
 			<string>/Users/arthur</string>
 		</dict>
 	</array>
+	<key>PerPaneBackgroundImage</key>
+	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
 	<key>ShowPaneTitles</key>
