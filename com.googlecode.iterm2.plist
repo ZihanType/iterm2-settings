@@ -1523,6 +1523,8 @@
 	</array>
 	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
+	<key>ShowPaneTitles</key>
+	<false/>
 	<key>SoundForEsc</key>
 	<false/>
 	<key>TabStyleWithAutomaticOption</key>
