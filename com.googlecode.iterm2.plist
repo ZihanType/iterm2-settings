@@ -363,6 +363,8 @@
 	</dict>
 	<key>Default Bookmark Guid</key>
 	<string>57904090-4277-4172-A37D-A2A2BD970F28</string>
+	<key>FocusFollowsMouse</key>
+	<true/>
 	<key>HapticFeedbackForEsc</key>
 	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
